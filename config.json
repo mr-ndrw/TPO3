@@ -1,0 +1,7 @@
+{
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=176.62.138.47; Database=bookstore; Uid=testuser; Pwd=password;"
+    }
+  }
+}
